@@ -1,0 +1,6 @@
+# https://shahrukh-saifi.netlify.app/robots.txt
+User-agent: *
+Allow: /
+Sitemap: https://shahrukh-saifi.netlify.app/sitemap.xml
+
+# Crawl-delay: 1
